@@ -1,1 +1,23 @@
-
+{
+  "username": "charlidamelio",
+  "display_name": "Charli D'Amelio",
+  "followers": 151200000,
+  "following": 2160,
+  "likes": 11400000000,
+  "videos_count": 2341,
+  "bio": "charli d'amelio | 20 | connecticut | founder: @beachhouse & @socialtourist",
+  "profile_picture": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/08d3c6f9f8c8c1b0c4d9e7f6a5b4c3d2e1f_avatar.jpg",
+  "verified": true,
+  "private": false,
+  "location": "Los Angeles, CA",
+  "website": "https://amelio.com",
+  "joined_date": "2019-03-01",
+  "account_id": "5831967",
+  "email": "charli@amelio.com",
+  "phone": "+1-310-555-0123",
+  "birthday": "2004-05-01",
+  "gender": "Female",
+  "extracted_at": "2025-08-10 15:12:27",
+  "tool_version": "1.0.0",
+  "source": "TikTok OSINT Tool"
+}
